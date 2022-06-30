@@ -1,3 +1,3 @@
 # OPEN-BOARD-CLONE
 
-https://saransh-chauhan.github.io/OPEN-BOARD/
+click here https://saransh-chauhan.github.io/OPEN-BOARD/
